@@ -18,11 +18,6 @@ h2 {
   font-size: 18px;
 }
 
-.aboutus li:hover {
-  color: black;
-  transform: none;
-}
-
-.aboutus p a:hover {
+.delivery p a:hover {
   color: tomato;
 }
