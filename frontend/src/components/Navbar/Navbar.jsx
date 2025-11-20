@@ -71,7 +71,7 @@ const Navbar = ({ setShowLogin }) => {
       {/* Always show these on all pages */}
       <div className="navbar-right">
         <RouterLink to="/cart" className="navbar-basket-icon">
-          <img src={assets.basket_icon} alt="Basket" />
+          <img src={assets.bag_icon} alt="Basket" />
           <div className={getTotalCartAmount() > 0 ? "dot" : ""}></div>
         </RouterLink>
 
