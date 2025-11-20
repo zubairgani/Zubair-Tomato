@@ -1,4 +1,4 @@
-.privacypolicy h1 {
+.delivery h1 {
   margin-top: 110px;
   color: tomato;
   font-size: 35px;
@@ -6,19 +6,18 @@
   justify-content: center;
 }
 
-.privacypolicy .updated {
+.delivery .updated {
   font-size: 15px;
   color: gray;
   display: flex;
   justify-content: right;
 }
 
-.privacypolicy h2 {
+.delivery h2 {
   color: tomato;
   font-size: 18px;
 }
 
-.privacypolicy li:hover {
-  color: black;
-  transform: none;
+.delivery p a:hover {
+  color: tomato;
 }
