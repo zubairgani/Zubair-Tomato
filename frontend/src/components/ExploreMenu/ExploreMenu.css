@@ -55,7 +55,16 @@
   color: #49557e;
   font-size: max(1.4vw, 16px);
   cursor: pointer;
+  justify-content: center;
+  display: flex;
 }
+
+.explore-menu-list-item p:hover {
+  color: tomato;
+  transition: 0.3s;
+  transform: scale(1.1);
+}
+
 .explore-menu hr {
   margin: 10px 0px;
   height: 2px;
