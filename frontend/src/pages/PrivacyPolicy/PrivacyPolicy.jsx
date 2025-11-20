@@ -11,8 +11,8 @@ const PrivacyPolicy = () => {
         your personal information. This Privacy Policy explains how we collect,
         use, share, and safeguard your data when you use our website and
         services.
-      </p>
-
+      </p>{" "}
+      <br />
       <h2>Information We Collect</h2>
       <ul>
         <li>
@@ -28,7 +28,7 @@ const PrivacyPolicy = () => {
           cookies and analytics tools.
         </li>
       </ul>
-
+      <br />
       <h2>How We Use Your Information</h2>
       <ul>
         <li>To process orders and deliver food quickly and efficiently.</li>
@@ -39,7 +39,7 @@ const PrivacyPolicy = () => {
         <li>To analyze and improve our website and services.</li>
         <li>To meet legal obligations and regulatory requirements.</li>
       </ul>
-
+      <br />
       <h2>Sharing and Disclosure</h2>
       <ul>
         <li>We do not sell your personal information.</li>
@@ -52,14 +52,14 @@ const PrivacyPolicy = () => {
           protect our rights.
         </li>
       </ul>
-
+      <br />
       <h2>Cookies</h2>
       <p>
         Our website uses cookies to enhance user experience and collect
         analytics data. You may choose to disable cookies in your browser
         settings, but some site features may not function properly.
       </p>
-
+      <br />
       <h2>Data Security</h2>
       <ul>
         <li>
@@ -68,7 +68,7 @@ const PrivacyPolicy = () => {
         </li>
         <li>Access is restricted to authorized personnel only.</li>
       </ul>
-
+      <br />
       <h2>Your Rights</h2>
       <ul>
         <li>
@@ -79,7 +79,7 @@ const PrivacyPolicy = () => {
           legal requirements.
         </li>
       </ul>
-
+      <br />
       <h2>Updates to This Policy</h2>
       <p>
         We may update this Privacy Policy from time to time. Any changes will be
