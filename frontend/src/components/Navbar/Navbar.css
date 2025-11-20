@@ -57,8 +57,9 @@ li:hover {
 }
 
 .navbar-basket-icon:hover {
-  transform: scale(1.1);
-  transition: 0.5s;
+  transform: scale(1.2);
+  transition: 0.5s ease-in-out;
+}
 }
 
 .navbar-basket-icon .dot {
