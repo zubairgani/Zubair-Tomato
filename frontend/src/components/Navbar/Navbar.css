@@ -185,4 +185,8 @@ li:hover {
   .navbar-menu {
     display: none;
   }
+  .navbar .logo {
+    margin-left: -140px;
+    margin-right: 120px;
+  }
 }
