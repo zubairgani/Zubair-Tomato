@@ -67,7 +67,7 @@ const Footer = () => {
               <a href="tel:+917006916615">Call Us</a>
             </li>
             <li>
-              <a href="mailto:zubairgani003@gmail.com">Write an emai mail to us</a>
+              <a href="mailto:zubairgani003@gmail.com">Write an emai to us</a>
             </li>
           </ul>
         </div>
