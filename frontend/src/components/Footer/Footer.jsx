@@ -75,8 +75,10 @@ const Footer = () => {
 
       <hr />
 
-      <p className="footer-copyright">
-        Copyright © 2025 Tomato.com. All rights reserved
+     <p className="footer-copyright">
+        <a href="https://zubairgani.vercel.app/">
+          Copyright © 2025 Tomato.com. All rights reserved
+        </a>
       </p>
     </div>
   );
